@@ -1,0 +1,643 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>在线分享网</title>
+  
+  <subtitle>在线分享网</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://www.52share.online/"/>
+  <updated>2019-03-11T05:22:51.143Z</updated>
+  <id>https://www.52share.online/</id>
+  
+  <author>
+    <name>HuiProgramer</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>管理Bean的生命周期</title>
+    <link href="https://www.52share.online/guan-li-bean-de-sheng-ming-zhou-qi.html"/>
+    <id>https://www.52share.online/guan-li-bean-de-sheng-ming-zhou-qi.html</id>
+    <published>2019-03-09T07:46:44.000Z</published>
+    <updated>2019-03-11T05:22:51.143Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;IOC容器中Bean的生命周期方法&quot;&gt;&lt;a href=&quot;#IOC容器中Bean的生命周期方法&quot; class=&quot;headerlink&quot;
+        
+      
+    
+    </summary>
+    
+      <category term="后端" scheme="https://www.52share.online/categories/%E5%90%8E%E7%AB%AF/"/>
+    
+      <category term="Java" scheme="https://www.52share.online/categories/%E5%90%8E%E7%AB%AF/Java/"/>
+    
+      <category term="Spring" scheme="https://www.52share.online/categories/%E5%90%8E%E7%AB%AF/Java/Spring/"/>
+    
+    
+      <category term="SSM" scheme="https://www.52share.online/tags/SSM/"/>
+    
+      <category term="SSH" scheme="https://www.52share.online/tags/SSH/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Spring表达式语言(SpEL)</title>
+    <link href="https://www.52share.online/spring-biao-da-shi-yu-yan-spel.html"/>
+    <id>https://www.52share.online/spring-biao-da-shi-yu-yan-spel.html</id>
+    <published>2019-03-08T13:48:44.000Z</published>
+    <updated>2019-03-08T15:17:35.999Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;Spring表达式语言：SpEL&quot;&gt;&lt;a href=&quot;#Spring表达式语言：SpEL&quot; class=&quot;headerlink&quot;
+        
+      
+    
+    </summary>
+    
+      <category term="后端" scheme="https://www.52share.online/categories/%E5%90%8E%E7%AB%AF/"/>
+    
+      <category term="Java" scheme="https://www.52share.online/categories/%E5%90%8E%E7%AB%AF/Java/"/>
+    
+      <category term="Spring" scheme="https://www.52share.online/categories/%E5%90%8E%E7%AB%AF/Java/Spring/"/>
+    
+    
+      <category term="SSM" scheme="https://www.52share.online/tags/SSM/"/>
+    
+      <category term="SSH" scheme="https://www.52share.online/tags/SSH/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>朱伟考研英语合集(韦林)</title>
+    <link href="https://www.52share.online/zhu-wei-kao-yan-ying-yu-he-ji-wei-lin.html"/>
+    <id>https://www.52share.online/zhu-wei-kao-yan-ying-yu-he-ji-wei-lin.html</id>
+    <published>2019-03-08T11:29:03.000Z</published>
+    <updated>2019-03-08T15:18:06.171Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;目录结构&quot;&gt;&lt;a href=&quot;#目录结构&quot; class=&quot;headerlink&quot; title=&quot;目录结构&quot;&gt;&lt;/a&gt;目录结构&lt;/h1&gt;&lt;pre&gt;&lt;code&gt;│  ├2019年考研资料
+│  │           ├复习直播指导
+│  │          
+        
+      
+    
+    </summary>
+    
+      <category term="考研" scheme="https://www.52share.online/categories/%E8%80%83%E7%A0%94/"/>
+    
+      <category term="英语" scheme="https://www.52share.online/categories/%E8%80%83%E7%A0%94/%E8%8B%B1%E8%AF%AD/"/>
+    
+    
+      <category term="学习资料" scheme="https://www.52share.online/tags/%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%96%99/"/>
+    
+      <category term="学习视频" scheme="https://www.52share.online/tags/%E5%AD%A6%E4%B9%A0%E8%A7%86%E9%A2%91/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>黑帽教程(2019版)</title>
+    <link href="https://www.52share.online/hei-mao-jiao-cheng-2019-ban.html"/>
+    <id>https://www.52share.online/hei-mao-jiao-cheng-2019-ban.html</id>
+    <published>2019-03-07T14:40:59.000Z</published>
+    <updated>2019-03-07T14:47:44.978Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;示意图&quot;&gt;&lt;a href=&quot;#示意图&quot; class=&quot;headerlink&quot; title=&quot;示意图&quot;&gt;&lt;/a&gt;示意图&lt;/h1&gt;&lt;p&gt;&lt;img
+        
+      
+    
+    </summary>
+    
+      <category term="全栈开发" scheme="https://www.52share.online/categories/%E5%85%A8%E6%A0%88%E5%BC%80%E5%8F%91/"/>
+    
+      <category term="黑帽" scheme="https://www.52share.online/categories/%E5%85%A8%E6%A0%88%E5%BC%80%E5%8F%91/%E9%BB%91%E5%B8%BD/"/>
+    
+    
+      <category term="黑客" scheme="https://www.52share.online/tags/%E9%BB%91%E5%AE%A2/"/>
+    
+      <category term="入侵" scheme="https://www.52share.online/tags/%E5%85%A5%E4%BE%B5/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Bean使用外部属性</title>
+    <link href="https://www.52share.online/bean-shi-yong-wai-bu-shu-xing.html"/>
+    <id>https://www.52share.online/bean-shi-yong-wai-bu-shu-xing.html</id>
+    <published>2019-03-07T14:10:21.000Z</published>
+    <updated>2019-03-07T14:38:09.790Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;使用外部属性&quot;&gt;&lt;a href=&quot;#使用外部属性&quot; class=&quot;headerlink&quot;
+        
+      
+    
+    </summary>
+    
+      <category term="后端" scheme="https://www.52share.online/categories/%E5%90%8E%E7%AB%AF/"/>
+    
+      <category term="Java" scheme="https://www.52share.online/categories/%E5%90%8E%E7%AB%AF/Java/"/>
+    
+      <category term="Spring" scheme="https://www.52share.online/categories/%E5%90%8E%E7%AB%AF/Java/Spring/"/>
+    
+    
+      <category term="SSM" scheme="https://www.52share.online/tags/SSM/"/>
+    
+      <category term="SSH" scheme="https://www.52share.online/tags/SSH/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Bean的作用域</title>
+    <link href="https://www.52share.online/bean-de-zuo-yong-yu.html"/>
+    <id>https://www.52share.online/bean-de-zuo-yong-yu.html</id>
+    <published>2019-03-07T13:47:59.000Z</published>
+    <updated>2019-03-07T14:56:02.711Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;Bean的作用域：singleton；prototype；WEB环境作用域&quot;&gt;&lt;a href=&quot;#Bean的作用域：singleton；prototype；WEB环境作用域&quot; class=&quot;headerlink&quot;
+        
+      
+    
+    </summary>
+    
+      <category term="后端" scheme="https://www.52share.online/categories/%E5%90%8E%E7%AB%AF/"/>
+    
+      <category term="Java" scheme="https://www.52share.online/categories/%E5%90%8E%E7%AB%AF/Java/"/>
+    
+      <category term="Spring" scheme="https://www.52share.online/categories/%E5%90%8E%E7%AB%AF/Java/Spring/"/>
+    
+    
+      <category term="SSM" scheme="https://www.52share.online/tags/SSM/"/>
+    
+      <category term="SSH" scheme="https://www.52share.online/tags/SSH/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Bean之间的关系</title>
+    <link href="https://www.52share.online/bean-zhi-jian-de-guan-xi.html"/>
+    <id>https://www.52share.online/bean-zhi-jian-de-guan-xi.html</id>
+    <published>2019-03-06T12:18:58.000Z</published>
+    <updated>2019-03-07T14:38:37.123Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;Bean之间的关系：继承；依赖&quot;&gt;&lt;a href=&quot;#Bean之间的关系：继承；依赖&quot; class=&quot;headerlink&quot; title=&quot;Bean之间的关系：继承；依赖&quot;&gt;&lt;/a&gt;Bean之间的关系：继承；依赖&lt;/h1&gt;&lt;h2
+        
+      
+    
+    </summary>
+    
+      <category term="后端" scheme="https://www.52share.online/categories/%E5%90%8E%E7%AB%AF/"/>
+    
+      <category term="Java" scheme="https://www.52share.online/categories/%E5%90%8E%E7%AB%AF/Java/"/>
+    
+      <category term="Spring" scheme="https://www.52share.online/categories/%E5%90%8E%E7%AB%AF/Java/Spring/"/>
+    
+    
+      <category term="SSM" scheme="https://www.52share.online/tags/SSM/"/>
+    
+      <category term="SSH" scheme="https://www.52share.online/tags/SSH/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Spring自动装配</title>
+    <link href="https://www.52share.online/spring-zi-dong-zhuang-pei.html"/>
+    <id>https://www.52share.online/spring-zi-dong-zhuang-pei.html</id>
+    <published>2019-03-05T01:15:20.000Z</published>
+    <updated>2019-03-05T13:03:30.575Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;XML配置里的Bean自动装配&quot;&gt;&lt;a href=&quot;#XML配置里的Bean自动装配&quot; class=&quot;headerlink&quot; title=&quot;XML配置里的Bean自动装配&quot;&gt;&lt;/a&gt;XML配置里的Bean自动装配&lt;/h1&gt;&lt;ul&gt;
+&lt;li&gt;Spring
+        
+      
+    
+    </summary>
+    
+      <category term="后端" scheme="https://www.52share.online/categories/%E5%90%8E%E7%AB%AF/"/>
+    
+      <category term="Java" scheme="https://www.52share.online/categories/%E5%90%8E%E7%AB%AF/Java/"/>
+    
+      <category term="Spring" scheme="https://www.52share.online/categories/%E5%90%8E%E7%AB%AF/Java/Spring/"/>
+    
+    
+      <category term="SSM" scheme="https://www.52share.online/tags/SSM/"/>
+    
+      <category term="SSH" scheme="https://www.52share.online/tags/SSH/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Vue.JS七天基础培训视频教程</title>
+    <link href="https://www.52share.online/vue-js-ji-zhu-shi-pin-jiao-cheng.html"/>
+    <id>https://www.52share.online/vue-js-ji-zhu-shi-pin-jiao-cheng.html</id>
+    <published>2019-03-03T05:05:22.000Z</published>
+    <updated>2019-03-04T08:09:15.282Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;智能社Javascript专题&quot;&gt;&lt;a href=&quot;#智能社Javascript专题&quot; class=&quot;headerlink&quot;
+        
+      
+    
+    </summary>
+    
+      <category term="资源分享" scheme="https://www.52share.online/categories/%E8%B5%84%E6%BA%90%E5%88%86%E4%BA%AB/"/>
+    
+      <category term="学习教程" scheme="https://www.52share.online/categories/%E8%B5%84%E6%BA%90%E5%88%86%E4%BA%AB/%E5%AD%A6%E4%B9%A0%E6%95%99%E7%A8%8B/"/>
+    
+      <category term="Vue.js" scheme="https://www.52share.online/categories/%E8%B5%84%E6%BA%90%E5%88%86%E4%BA%AB/%E5%AD%A6%E4%B9%A0%E6%95%99%E7%A8%8B/Vue-js/"/>
+    
+    
+      <category term="学习资料" scheme="https://www.52share.online/tags/%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%96%99/"/>
+    
+      <category term="学习视频" scheme="https://www.52share.online/tags/%E5%AD%A6%E4%B9%A0%E8%A7%86%E9%A2%91/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hexo常见错误</title>
+    <link href="https://www.52share.online/hexo-chang-jian-cuo-wu.html"/>
+    <id>https://www.52share.online/hexo-chang-jian-cuo-wu.html</id>
+    <published>2019-03-02T09:28:22.000Z</published>
+    <updated>2019-03-03T06:45:54.532Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;启用腾讯云图床错误&quot;&gt;&lt;a href=&quot;#启用腾讯云图床错误&quot; class=&quot;headerlink&quot;
+        
+      
+    
+    </summary>
+    
+      <category term="前端" scheme="https://www.52share.online/categories/%E5%89%8D%E7%AB%AF/"/>
+    
+      <category term="Node.js" scheme="https://www.52share.online/categories/%E5%89%8D%E7%AB%AF/Node-js/"/>
+    
+      <category term="Hexo" scheme="https://www.52share.online/categories/%E5%89%8D%E7%AB%AF/Node-js/Hexo/"/>
+    
+    
+      <category term="博客" scheme="https://www.52share.online/tags/%E5%8D%9A%E5%AE%A2/"/>
+    
+      <category term="常见错误" scheme="https://www.52share.online/tags/%E5%B8%B8%E8%A7%81%E9%94%99%E8%AF%AF/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Spring中Bean的配置</title>
+    <link href="https://www.52share.online/spring-zhong-bean-de-pei-zhi.html"/>
+    <id>https://www.52share.online/spring-zhong-bean-de-pei-zhi.html</id>
+    <published>2019-03-02T02:40:41.000Z</published>
+    <updated>2019-03-05T05:47:42.864Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;IOC-amp-DI概述&quot;&gt;&lt;a href=&quot;#IOC-amp-DI概述&quot; class=&quot;headerlink&quot; title=&quot;IOC&amp;amp;DI概述&quot;&gt;&lt;/a&gt;IOC&amp;amp;DI概述&lt;/h1&gt;&lt;h2 id=&quot;配置Bean&quot;&gt;&lt;a
+        
+      
+    
+    </summary>
+    
+      <category term="后端" scheme="https://www.52share.online/categories/%E5%90%8E%E7%AB%AF/"/>
+    
+      <category term="Java" scheme="https://www.52share.online/categories/%E5%90%8E%E7%AB%AF/Java/"/>
+    
+      <category term="Spring" scheme="https://www.52share.online/categories/%E5%90%8E%E7%AB%AF/Java/Spring/"/>
+    
+    
+      <category term="SSM" scheme="https://www.52share.online/tags/SSM/"/>
+    
+      <category term="SSH" scheme="https://www.52share.online/tags/SSH/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Spring的HelloWorld(使用Idea)</title>
+    <link href="https://www.52share.online/spring-de-helloworld-shi-yong-idea.html"/>
+    <id>https://www.52share.online/spring-de-helloworld-shi-yong-idea.html</id>
+    <published>2019-02-22T11:48:04.000Z</published>
+    <updated>2019-03-03T06:57:18.377Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;创建Spring项目&quot;&gt;&lt;a href=&quot;#创建Spring项目&quot; class=&quot;headerlink&quot; title=&quot;创建Spring项目&quot;&gt;&lt;/a&gt;创建Spring项目&lt;/h1&gt;&lt;p&gt;我们在idea中创建一个Spring项目，具体如下：&lt;br&gt;
+        
+      
+    
+    </summary>
+    
+      <category term="后端" scheme="https://www.52share.online/categories/%E5%90%8E%E7%AB%AF/"/>
+    
+      <category term="Java" scheme="https://www.52share.online/categories/%E5%90%8E%E7%AB%AF/Java/"/>
+    
+      <category term="Spring" scheme="https://www.52share.online/categories/%E5%90%8E%E7%AB%AF/Java/Spring/"/>
+    
+    
+      <category term="SSM" scheme="https://www.52share.online/tags/SSM/"/>
+    
+      <category term="SSH" scheme="https://www.52share.online/tags/SSH/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Java基础到架构（2018年 黑马+传智播客）</title>
+    <link href="https://www.52share.online/java-ji-chu-dao-jia-gou-2018-nian-hei-ma-chuan-zhi-bo-ke.html"/>
+    <id>https://www.52share.online/java-ji-chu-dao-jia-gou-2018-nian-hei-ma-chuan-zhi-bo-ke.html</id>
+    <published>2019-02-20T02:45:42.000Z</published>
+    <updated>2019-03-12T07:32:16.045Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;第一部分&quot;&gt;&lt;a href=&quot;#第一部分&quot; class=&quot;headerlink&quot; title=&quot;第一部分&quot;&gt;&lt;/a&gt;第一部分&lt;/h1&gt;&lt;ul&gt;
+&lt;li&gt;01.java 基础(共 300 集左右).&lt;/li&gt;
+&lt;li&gt;02.HTML(共 21
+        
+      
+    
+    </summary>
+    
+      <category term="资源分享" scheme="https://www.52share.online/categories/%E8%B5%84%E6%BA%90%E5%88%86%E4%BA%AB/"/>
+    
+      <category term="学习教程" scheme="https://www.52share.online/categories/%E8%B5%84%E6%BA%90%E5%88%86%E4%BA%AB/%E5%AD%A6%E4%B9%A0%E6%95%99%E7%A8%8B/"/>
+    
+      <category term="Java" scheme="https://www.52share.online/categories/%E8%B5%84%E6%BA%90%E5%88%86%E4%BA%AB/%E5%AD%A6%E4%B9%A0%E6%95%99%E7%A8%8B/Java/"/>
+    
+    
+      <category term="学习资料" scheme="https://www.52share.online/tags/%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%96%99/"/>
+    
+      <category term="学习视频" scheme="https://www.52share.online/tags/%E5%AD%A6%E4%B9%A0%E8%A7%86%E9%A2%91/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Android学习资料合集</title>
+    <link href="https://www.52share.online/android-xue-xi-zi-liao-he-ji.html"/>
+    <id>https://www.52share.online/android-xue-xi-zi-liao-he-ji.html</id>
+    <published>2019-01-11T15:05:11.000Z</published>
+    <updated>2019-03-12T07:32:46.305Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;Android核心技术&quot;&gt;&lt;a href=&quot;#Android核心技术&quot; class=&quot;headerlink&quot; title=&quot;Android核心技术&quot;&gt;&lt;/a&gt;Android核心技术&lt;/h1&gt;&lt;h2 id=&quot;一、Android核心基础-15天精讲精练&quot;&gt;&lt;a
+        
+      
+    
+    </summary>
+    
+      <category term="资源分享" scheme="https://www.52share.online/categories/%E8%B5%84%E6%BA%90%E5%88%86%E4%BA%AB/"/>
+    
+      <category term="学习教程" scheme="https://www.52share.online/categories/%E8%B5%84%E6%BA%90%E5%88%86%E4%BA%AB/%E5%AD%A6%E4%B9%A0%E6%95%99%E7%A8%8B/"/>
+    
+      <category term="Android" scheme="https://www.52share.online/categories/%E8%B5%84%E6%BA%90%E5%88%86%E4%BA%AB/%E5%AD%A6%E4%B9%A0%E6%95%99%E7%A8%8B/Android/"/>
+    
+    
+      <category term="学习资料" scheme="https://www.52share.online/tags/%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%96%99/"/>
+    
+      <category term="学习视频" scheme="https://www.52share.online/tags/%E5%AD%A6%E4%B9%A0%E8%A7%86%E9%A2%91/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>2018年传智播客Python全栈学习(15期)</title>
+    <link href="https://www.52share.online/2018-nian-chuan-zhi-bo-ke-python-quan-zhan-xue-xi-15-qi.html"/>
+    <id>https://www.52share.online/2018-nian-chuan-zhi-bo-ke-python-quan-zhan-xue-xi-15-qi.html</id>
+    <published>2019-01-09T13:58:40.000Z</published>
+    <updated>2019-03-12T07:33:55.944Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;&lt;img src=&quot;http://wx2.sinaimg.cn/large/006MOU0zgy1g0pkh6fvfrj30ia0fi3zi.jpg&quot; alt=&quot;Python全栈（15期）&quot;&gt;&lt;br&gt;&lt;img
+        
+      
+    
+    </summary>
+    
+      <category term="资源分享" scheme="https://www.52share.online/categories/%E8%B5%84%E6%BA%90%E5%88%86%E4%BA%AB/"/>
+    
+      <category term="学习教程" scheme="https://www.52share.online/categories/%E8%B5%84%E6%BA%90%E5%88%86%E4%BA%AB/%E5%AD%A6%E4%B9%A0%E6%95%99%E7%A8%8B/"/>
+    
+      <category term="Python" scheme="https://www.52share.online/categories/%E8%B5%84%E6%BA%90%E5%88%86%E4%BA%AB/%E5%AD%A6%E4%B9%A0%E6%95%99%E7%A8%8B/Python/"/>
+    
+    
+      <category term="学习资料" scheme="https://www.52share.online/tags/%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%96%99/"/>
+    
+      <category term="学习视频" scheme="https://www.52share.online/tags/%E5%AD%A6%E4%B9%A0%E8%A7%86%E9%A2%91/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>2018慕课网全站付费资源（119个课程）</title>
+    <link href="https://www.52share.online/2018-mu-ke-wang-quan-zhan-fu-fei-zi-yuan-119-ge-ke-cheng.html"/>
+    <id>https://www.52share.online/2018-mu-ke-wang-quan-zhan-fu-fei-zi-yuan-119-ge-ke-cheng.html</id>
+    <published>2019-01-09T13:41:02.000Z</published>
+    <updated>2019-03-12T07:34:05.479Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;2018慕课网全站付费资源，119个课程，912.45GB&lt;/p&gt;
+&lt;p&gt;集合了2018年最新慕课网全站付费购买视频，一共加起来有912.45GB的百度云资源视频免费分享&lt;/p&gt;
+&lt;p&gt;包括了所有的技术学习类的教程，所有教程名字都可以对应到慕课网上的视频教程名字&lt;/p&gt;
+&lt;
+        
+      
+    
+    </summary>
+    
+      <category term="资源分享" scheme="https://www.52share.online/categories/%E8%B5%84%E6%BA%90%E5%88%86%E4%BA%AB/"/>
+    
+      <category term="学习教程" scheme="https://www.52share.online/categories/%E8%B5%84%E6%BA%90%E5%88%86%E4%BA%AB/%E5%AD%A6%E4%B9%A0%E6%95%99%E7%A8%8B/"/>
+    
+    
+      <category term="学习资料" scheme="https://www.52share.online/tags/%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%96%99/"/>
+    
+      <category term="学习视频" scheme="https://www.52share.online/tags/%E5%AD%A6%E4%B9%A0%E8%A7%86%E9%A2%91/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Java学习路线图</title>
+    <link href="https://www.52share.online/java-xue-xi-lu-xian-tu.html"/>
+    <id>https://www.52share.online/java-xue-xi-lu-xian-tu.html</id>
+    <published>2019-01-06T08:33:58.000Z</published>
+    <updated>2019-03-03T06:54:52.532Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;Java&quot;&gt;&lt;a href=&quot;#Java&quot; class=&quot;headerlink&quot;
+        
+      
+    
+    </summary>
+    
+      <category term="后端" scheme="https://www.52share.online/categories/%E5%90%8E%E7%AB%AF/"/>
+    
+      <category term="Java" scheme="https://www.52share.online/categories/%E5%90%8E%E7%AB%AF/Java/"/>
+    
+    
+      <category term="Java学习路线" scheme="https://www.52share.online/tags/Java%E5%AD%A6%E4%B9%A0%E8%B7%AF%E7%BA%BF/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Git教程（持续更新）</title>
+    <link href="https://www.52share.online/git-jiao-cheng.html"/>
+    <id>https://www.52share.online/git-jiao-cheng.html</id>
+    <published>2018-12-24T14:06:36.000Z</published>
+    <updated>2019-03-12T07:32:25.652Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;GIT-（分布式版本控制系统）&quot;&gt;&lt;a href=&quot;#GIT-（分布式版本控制系统）&quot; class=&quot;headerlink&quot; title=&quot;GIT （分布式版本控制系统）&quot;&gt;&lt;/a&gt;GIT （分布式版本控制系统）&lt;/h1&gt;&lt;h2 id=&quot;简介&quot;&gt;&lt;a
+        
+      
+    
+    </summary>
+    
+      <category term="前端" scheme="https://www.52share.online/categories/%E5%89%8D%E7%AB%AF/"/>
+    
+      <category term="版本控制系统" scheme="https://www.52share.online/categories/%E5%89%8D%E7%AB%AF/%E7%89%88%E6%9C%AC%E6%8E%A7%E5%88%B6%E7%B3%BB%E7%BB%9F/"/>
+    
+    
+      <category term="Github" scheme="https://www.52share.online/tags/Github/"/>
+    
+      <category term="Git" scheme="https://www.52share.online/tags/Git/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Markdown基本语法</title>
+    <link href="https://www.52share.online/markdown-ji-ben-yu-fa.html"/>
+    <id>https://www.52share.online/markdown-ji-ben-yu-fa.html</id>
+    <published>2018-12-22T13:59:58.000Z</published>
+    <updated>2019-03-12T07:32:19.101Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;Markdown&quot;&gt;&lt;a href=&quot;#Markdown&quot; class=&quot;headerlink&quot; title=&quot;Markdown&quot;&gt;&lt;/a&gt;Markdown&lt;/h1&gt;&lt;h2 id=&quot;Markdown介绍&quot;&gt;&lt;a href=&quot;#Markdown介绍&quot;
+        
+      
+    
+    </summary>
+    
+      <category term="前端" scheme="https://www.52share.online/categories/%E5%89%8D%E7%AB%AF/"/>
+    
+    
+      <category term="Markdown" scheme="https://www.52share.online/tags/Markdown/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>长难句分析（特殊结构的长难句）</title>
+    <link href="https://www.52share.online/chang-nan-ju-fen-xi-te-shu-jie-gou-de-chang-nan-ju.html"/>
+    <id>https://www.52share.online/chang-nan-ju-fen-xi-te-shu-jie-gou-de-chang-nan-ju.html</id>
+    <published>2018-12-16T13:31:10.000Z</published>
+    <updated>2018-12-16T13:35:51.196Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;二、特殊结构的长难句&quot;&gt;&lt;a href=&quot;#二、特殊结构的长难句&quot; class=&quot;headerlink&quot;
+        
+      
+    
+    </summary>
+    
+      <category term="英语" scheme="https://www.52share.online/categories/%E8%8B%B1%E8%AF%AD/"/>
+    
+    
+      <category term="English-Syntax" scheme="https://www.52share.online/tags/English-Syntax/"/>
+    
+  </entry>
+  
+</feed>
