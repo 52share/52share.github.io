@@ -496,9 +496,9 @@
 </tbody>
 </table>
 <h3 id="标题"><a href="#标题" class="headerlink" title="标题"></a>标题</h3><p>在想要设置为标题的文字前面加#来表示<br>一个#是一级标题，二个#是二级标题，以此类推。支持六级标题。<br><strong>注意：每个#后面必须跟一个空格</strong><br>示例：</p>
-<pre class=" language-Markdown"><code class="language-Markdown">#### 这是四级标题
-##### 这是五级标题
-###### 这是六级标题
+<pre class=" language-markdown"><code class="language-markdown"><span class="token title important"><span class="token punctuation">####</span> 这是四级标题</span>
+<span class="token title important"><span class="token punctuation">#####</span> 这是五级标题</span>
+<span class="token title important"><span class="token punctuation">######</span> 这是六级标题</span>
 </code></pre>
 <p>效果如下：</p>
 <h4 id="这是四级标题"><a href="#这是四级标题" class="headerlink" title="这是四级标题"></a>这是四级标题</h4><h5 id="这是五级标题"><a href="#这是五级标题" class="headerlink" title="这是五级标题"></a>这是五级标题</h5><h6 id="这是六级标题"><a href="#这是六级标题" class="headerlink" title="这是六级标题"></a>这是六级标题</h6><h3 id="字体"><a href="#字体" class="headerlink" title="字体"></a>字体</h3><ul>
@@ -508,9 +508,9 @@
 <li><del>删除线</del><br>要加删除线的文字左右分别用两个~~号包起来</li>
 </ul>
 <p>代码示例:</p>
-<pre class=" language-Markdown"><code class="language-Markdown">**这是加粗的文字**
-*这是倾斜的文字*
-***这是斜体加粗的文字***
+<pre class=" language-markdown"><code class="language-markdown"><span class="token bold"><span class="token punctuation">**</span>这是加粗的文字<span class="token punctuation">**</span></span>
+<span class="token italic"><span class="token punctuation">*</span>这是倾斜的文字<span class="token punctuation">*</span></span>
+<span class="token bold"><span class="token punctuation">**</span>*这是斜体加粗的文字<span class="token punctuation">**</span></span>*
 ~~这是加删除线的文字~~
 </code></pre>
 <h3 id="有序无序列表"><a href="#有序无序列表" class="headerlink" title="有序无序列表"></a>有序无序列表</h3><ul>
@@ -518,18 +518,18 @@
 <li><strong>无序列表</strong><br>通过*,-,+其中之一加一个空格来实现无序列表。</li>
 </ul>
 <p>代码示例：</p>
-<pre class=" language-Markdown"><code class="language-Markdown">1. 我是有序列表
-* 我是由*号生成无序列表
-* 我是由*号生成无序列表
-* 我是由*号生成无序列表
-2. 我是有序列表
-- 我是由-号生成无序列表
-- 我是由-号生成无序列表
-- 我是由-号生成无序列表
-3. 我是有序列表
-+ 我是由+号生成无序列表
-+ 我是由+号生成无序列表
-+ 我是由+号生成无序列表
+<pre class=" language-markdown"><code class="language-markdown"><span class="token list punctuation">1.</span> 我是有序列表
+<span class="token list punctuation">*</span> 我是由*号生成无序列表
+<span class="token list punctuation">*</span> 我是由*号生成无序列表
+<span class="token list punctuation">*</span> 我是由*号生成无序列表
+<span class="token list punctuation">2.</span> 我是有序列表
+<span class="token list punctuation">-</span> 我是由-号生成无序列表
+<span class="token list punctuation">-</span> 我是由-号生成无序列表
+<span class="token list punctuation">-</span> 我是由-号生成无序列表
+<span class="token list punctuation">3.</span> 我是有序列表
+<span class="token list punctuation">+</span> 我是由+号生成无序列表
+<span class="token list punctuation">+</span> 我是由+号生成无序列表
+<span class="token list punctuation">+</span> 我是由+号生成无序列表
 </code></pre>
 <p>效果如下：</p>
 <ol>
@@ -553,9 +553,9 @@
 </li>
 </ol>
 <h3 id="块级引用"><a href="#块级引用" class="headerlink" title="块级引用"></a>块级引用</h3><p>在引用的文字前加&gt;即可。引用也可以嵌套，如加两个&gt;&gt;三个&gt;&gt;&gt;<br>n个…<br>示例：</p>
-<pre class=" language-Markdown"><code class="language-Markdown">>这是引用的内容
->>这是引用的内容
->>>这是引用的内容
+<pre class=" language-markdown"><code class="language-markdown"><span class="token blockquote punctuation">></span>这是引用的内容
+<span class="token blockquote punctuation">>></span>这是引用的内容
+<span class="token blockquote punctuation">>>></span>这是引用的内容
 </code></pre>
 <p>效果如下：</p>
 <blockquote>
@@ -577,22 +577,22 @@
 <p>```Python(指定语言)<br>def example():<br>&emsp;&emsp;for i in range(10):<br>&emsp;&emsp;&emsp;&emsp;print(“hello”)<br>```</p>
 </blockquote>
 <p>效果如下：</p>
-<pre class=" language-Python"><code class="language-Python">def example():
-    for i in range(10):
-        print("hello")
+<pre class=" language-python"><code class="language-python"><span class="token keyword">def</span> <span class="token function">example</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">:</span>
+    <span class="token keyword">for</span> i <span class="token keyword">in</span> range<span class="token punctuation">(</span><span class="token number">10</span><span class="token punctuation">)</span><span class="token punctuation">:</span>
+        <span class="token keyword">print</span><span class="token punctuation">(</span><span class="token string">"hello"</span><span class="token punctuation">)</span>
 </code></pre>
 <h3 id="图片"><a href="#图片" class="headerlink" title="图片"></a>图片</h3><p><strong>语法：</strong><br>![图片alt](图片地址 ‘’图片title’’)</p>
 <p>图片alt就是显示在图片下面的文字，相当于对图片内容的解释。<br>图片title是图片的标题，当鼠标移到图片上时显示的内容。title可加可不加<br>示例：</p>
-<pre class=" language-Markdown"><code class="language-Markdown">![头像](https://www.52share.online/images/avatar.jpg "头像icon")
+<pre class=" language-markdown"><code class="language-markdown"><span class="token url">![头像](https://www.52share.online/images/avatar.jpg <span class="token string">"头像icon"</span>)</span>
 </code></pre>
 <p>效果如下：<br><img src="https://www.52share.online/images/avatar.jpg" alt="头像" title="头像icon"></p>
 <h3 id="链接"><a href="#链接" class="headerlink" title="链接"></a>链接</h3><p><strong>语法：</strong><br>[超链接名](超链接地址 “超链接title”)<br>title可加可不加<br>示例：</p>
-<pre class=" language-Markdown"><code class="language-Markdown">[baidu](http://baidu.com)
-[博客](https://huiprogramer.github.io)
+<pre class=" language-markdown"><code class="language-markdown"><span class="token url">[baidu](http://baidu.com)</span>
+<span class="token url">[博客](https://huiprogramer.github.io)</span>
 </code></pre>
 <p>效果如下：<br><a href="http://baidu.com" target="_blank" rel="noopener">baidu</a><br><a href="https://huiprogramer.github.io" target="_blank" rel="noopener">博客</a></p>
 <h3 id="表格"><a href="#表格" class="headerlink" title="表格"></a>表格</h3><p><strong>语法：</strong></p>
-<pre class=" language-Markdown"><code class="language-Markdown">:---:|:---:|
+<pre class=" language-markdown"><code class="language-markdown">:---:|:---:|
 文字居中显示
 :---|:---
 文字靠左显示
@@ -600,7 +600,7 @@
 文字靠右显示
 </code></pre>
 <p><strong>示例：</strong></p>
-<pre class=" language-Markdown"><code class="language-Markdown">示例1：
+<pre class=" language-markdown"><code class="language-markdown">示例1：
 
 表格文字居中|表格文字居中|表格文字居中
 :---:|:---:|:---:
