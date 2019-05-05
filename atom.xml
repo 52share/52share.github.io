@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://www.52share.online/"/>
-  <updated>2019-05-03T10:12:51.058Z</updated>
+  <updated>2019-05-05T13:40:03.774Z</updated>
   <id>https://www.52share.online/</id>
   
   <author>
@@ -17,11 +17,75 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>Python自动办公</title>
+    <link href="https://www.52share.online/Python%E8%87%AA%E5%8A%A8%E5%8A%9E%E5%85%AC.html"/>
+    <id>https://www.52share.online/Python自动办公.html</id>
+    <published>2019-05-05T13:29:53.000Z</published>
+    <updated>2019-05-05T13:40:03.774Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;&lt;img src=&quot;https://wx3.sinaimg.cn/large/006MOU0zly1g2qrhi7d0sj30og10k12b.jpg&quot; referrerpolicy=&quot;no-referrer&quot;&gt;&lt;/p&gt;
+&lt;h2 id=&quot;适合人群&quot;&gt;&lt;a
+        
+      
+    
+    </summary>
+    
+      <category term="资源分享" scheme="https://www.52share.online/categories/%E8%B5%84%E6%BA%90%E5%88%86%E4%BA%AB/"/>
+    
+      <category term="学习教程" scheme="https://www.52share.online/categories/%E8%B5%84%E6%BA%90%E5%88%86%E4%BA%AB/%E5%AD%A6%E4%B9%A0%E6%95%99%E7%A8%8B/"/>
+    
+      <category term="Python" scheme="https://www.52share.online/categories/%E8%B5%84%E6%BA%90%E5%88%86%E4%BA%AB/%E5%AD%A6%E4%B9%A0%E6%95%99%E7%A8%8B/Python/"/>
+    
+    
+      <category term="学习资料" scheme="https://www.52share.online/tags/%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%96%99/"/>
+    
+      <category term="学习视频" scheme="https://www.52share.online/tags/%E5%AD%A6%E4%B9%A0%E8%A7%86%E9%A2%91/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>编程资料合集</title>
+    <link href="https://www.52share.online/%E7%BC%96%E7%A8%8B%E8%B5%84%E6%96%99%E5%90%88%E9%9B%86.html"/>
+    <id>https://www.52share.online/编程资料合集.html</id>
+    <published>2019-05-05T12:38:32.000Z</published>
+    <updated>2019-05-05T13:24:11.453Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h2 id=&quot;Unity3D&quot;&gt;&lt;a href=&quot;#Unity3D&quot; class=&quot;headerlink&quot; title=&quot;Unity3D&quot;&gt;&lt;/a&gt;Unity3D&lt;/h2&gt;&lt;blockquote&gt;
+&lt;p&gt;链接：&lt;a
+        
+      
+    
+    </summary>
+    
+      <category term="资源分享" scheme="https://www.52share.online/categories/%E8%B5%84%E6%BA%90%E5%88%86%E4%BA%AB/"/>
+    
+      <category term="学习教程" scheme="https://www.52share.online/categories/%E8%B5%84%E6%BA%90%E5%88%86%E4%BA%AB/%E5%AD%A6%E4%B9%A0%E6%95%99%E7%A8%8B/"/>
+    
+    
+      <category term="学习资料" scheme="https://www.52share.online/tags/%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%96%99/"/>
+    
+      <category term="学习视频" scheme="https://www.52share.online/tags/%E5%AD%A6%E4%B9%A0%E8%A7%86%E9%A2%91/"/>
+    
+  </entry>
+  
+  <entry>
     <title>Go语言核心知识36讲</title>
     <link href="https://www.52share.online/Go%E8%AF%AD%E8%A8%80%E6%A0%B8%E5%BF%83%E7%9F%A5%E8%AF%8636%E8%AE%B2.html"/>
     <id>https://www.52share.online/Go语言核心知识36讲.html</id>
     <published>2019-04-26T02:58:06.000Z</published>
-    <updated>2019-05-03T10:12:51.058Z</updated>
+    <updated>2019-05-05T12:30:21.573Z</updated>
     
     <summary type="html">
     
@@ -255,7 +319,7 @@
     <link href="https://www.52share.online/%E5%B0%9A%E7%A1%85%E8%B0%B7%E5%89%8D%E7%AB%AF%E5%AD%A6%E4%B9%A0%E8%A7%86%E9%A2%91%EF%BC%882018%EF%BC%89.html"/>
     <id>https://www.52share.online/尚硅谷前端学习视频（2018）.html</id>
     <published>2019-03-21T14:11:47.000Z</published>
-    <updated>2019-03-21T14:18:57.152Z</updated>
+    <updated>2019-05-05T13:09:19.403Z</updated>
     
     <summary type="html">
     
@@ -447,7 +511,7 @@
     <link href="https://www.52share.online/Android%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%96%99%E5%90%88%E9%9B%86.html"/>
     <id>https://www.52share.online/Android学习资料合集.html</id>
     <published>2019-01-11T15:05:11.000Z</published>
-    <updated>2019-03-11T13:02:25.078Z</updated>
+    <updated>2019-05-05T13:09:28.642Z</updated>
     
     <summary type="html">
     
