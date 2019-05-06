@@ -409,29 +409,6 @@ $('.bg-cover').css('background-image', 'url(/medias/banner/' + new Date().getDay
 
     
     
-    <div class="carousel-item amber white-text carousel-post bg-cover" style="background-image: url('https://huiprogramer.gitee.io/medias/featureimages/4.jpg');">
-        <div class="container">
-            <div class="row">
-                <div class="col s10 offset-s1">
-                    <div class="title center-align">Android学习资料合集</div>
-                    <div class="description center-align">
-                    
-                        Android核心技术一、Android核心基础_15天精讲精练https://pan.baidu.com/s/1b86u2E
-二、Android自定义控件视频https://pan.baidu.com/s/1hrOVZd6
-三、Andro
-                    
-                    </div>
-                    <div class="cover-btns">
-                        <a href="/Android学习资料合集.html" class="waves-effect waves-light btn" target="_blank">
-                            <i class="icon fa fa-eye fa-fw"></i>阅读更多
-                        </a>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    
-    
     <div class="carousel-item amber white-text carousel-post bg-cover" style="background-image: url('https://huiprogramer.gitee.io/medias/featureimages/2.jpg');">
         <div class="container">
             <div class="row">
@@ -448,6 +425,29 @@ Python是一种计算机程序设计语言。是一种面向对象的动态类�
                     </div>
                     <div class="cover-btns">
                         <a href="/2018年传智播客Python全栈学习-15期.html" class="waves-effect waves-light btn" target="_blank">
+                            <i class="icon fa fa-eye fa-fw"></i>阅读更多
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    
+    
+    <div class="carousel-item amber white-text carousel-post bg-cover" style="background-image: url('https://huiprogramer.gitee.io/medias/featureimages/4.jpg');">
+        <div class="container">
+            <div class="row">
+                <div class="col s10 offset-s1">
+                    <div class="title center-align">Android学习资料合集</div>
+                    <div class="description center-align">
+                    
+                        Android核心技术一、Android核心基础_15天精讲精练https://pan.baidu.com/s/1b86u2E
+二、Android自定义控件视频https://pan.baidu.com/s/1hrOVZd6
+三、Andro
+                    
+                    </div>
+                    <div class="cover-btns">
+                        <a href="/Android学习资料合集.html" class="waves-effect waves-light btn" target="_blank">
                             <i class="icon fa fa-eye fa-fw"></i>阅读更多
                         </a>
                     </div>
@@ -1574,17 +1574,44 @@ $(function () {
     <script async src="https://huiprogramer.gitee.io/libs/others/busuanzi.pure.mini.js"></script>
 
 <script type='text/javascript'> 
-    //禁用右键（防止右键查看源代码） 
-    window.oncontextmenu=function(){return false;} 
-    
-    //如果用户在工具栏调起开发者工具，那么判断浏览器的可视高度和可视宽度是否有改变，如有改变则关闭本页面 
+var arr = [123, 17, 18];
+document.oncontextmenu = new Function("event.returnValue=false;"),//禁用右键
+
+window.onkeydown = function (e) {
+    var keyCode = e.keyCode || e.which || e.charCode;
+    var ctrlKey = e.ctrlKey || e.metaKey;
+    console.log(keyCode + "--" + keyCode);
+    if (ctrlKey && keyCode == 85) {
+        console.log("ctrl+u");
+        e.preventDefault();
+    }
+    if (arr.indexOf(keyCode) > -1) {
+        console.log("其他");
+        e.preventDefault();
+    }
+    //e.preventDefault();
+    //return false;
+}
+var sUserAgent= navigator.userAgent.toLowerCase(); 
+var bIsIpad= sUserAgent.match(/ipad/i) == "ipad"; 
+var bIsIphoneOs= sUserAgent.match(/iphone os/i) == "iphone os"; 
+var bIsMidp= sUserAgent.match(/midp/i) == "midp"; 
+var bIsUc7= sUserAgent.match(/rv:1.2.3.4/i) == "rv:1.2.3.4"; 
+var bIsUc= sUserAgent.match(/ucweb/i) == "ucweb"; 
+var bIsAndroid= sUserAgent.match(/android/i) == "android"; 
+var bIsCE= sUserAgent.match(/windows ce/i) == "windows ce"; 
+var bIsWM= sUserAgent.match(/windows mobile/i) == "windows mobile"; 
+
+if ( bIsIpad || bIsIphoneOs || bIsMidp || bIsUc7 || bIsUc || bIsAndroid || bIsCE || bIsWM) { 
+
+} else { 
+//如果用户在工具栏调起开发者工具，那么判断浏览器的可视高度和可视宽度是否有改变，如有改变则关闭本页面 
     var h = window.innerHeight,w=window.innerWidth; 
     window.onresize = function () { 
-        if (h!= window.innerHeight||w!=window.innerWidth){ 
-            window.close(); 
-            window.location = "about:blank"; 
-        } 
+        window.location.href="about:blank";
+        window.close();
     } 
+}
 </script> 
 </body>
 </html>
